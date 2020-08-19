@@ -1,1 +1,1 @@
-Stealing googles top secret code!
+Attempting to recreate the google.ca landing page.
