@@ -22,9 +22,13 @@ footer {
     bottom: 0;
     width: 100%;
 }
-topnav {
+.topnav {
+    padding-left: 15px;
     font-family: arial;
     font-size: 13px;
+    text-decoration: none;
+    opacity: 0.75;
+    word-spacing: 20px;
 }
 
 button {
